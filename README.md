@@ -28,7 +28,7 @@ Technologies used: **Next.js 15, React, TypeScript, Tailwind CSS, ShadCN UI, Aut
 ### Clone the Repository
 
 ```bash
-git clone --recurse-submodules https://github.com/YourUsername/synnsia.git
+git clone --recurse-submodules https://github.com/nikhil-shr-23/synnsia.git
 ```
 
 ### Install Python
